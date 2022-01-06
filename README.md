@@ -9,7 +9,7 @@ will be shown.
 ![](https://github.com/DN-debug/peux-os-sddm/blob/master/sddm-peux.png)
 ## Features
 
-Things that make this version different from the original theme are editable from
+Things that make this version different from the original theme are auto-background changer/blur/date&time. Two of these are editable from
 within the 'theme.conf' file:
 
 1. <b>blur</b>: 
@@ -27,12 +27,11 @@ within the 'theme.conf' file:
 The background image of the login-screen would change automatically, with a random image everytime the sddm session
 is restarted. That means, if you login and then logout, you'd likely to see a different background.
 
-## Issues
-
+## Issues and Contribution
 
 This is not really an issue, rather an implementation constraint created by ME, that is, the pictures' path is hardcoded. I could have dynamically pulled the images from a 
 folder or url but it simply is not my aim to do so as of now. <br><br>
-If anyone wants, they can modify it as per their choice by forking or cloning this repo. You could also fetch 
+If anyone wants, they can modify it as per their choice by either forking or cloning this repo. You could also fetch 
 XML data from Bing/Yahoo/Flicker and many other sites in your implementation. <br><br> 
 
 If you would like to contribute to this repo please do so by creating a PR. I am open to suggestions.
