@@ -4,7 +4,7 @@ A version of sddm-clairvoyance theme modified for
 Peux OS, comes with auto-background 
 change implemented along with Full/Partial Blur. 
 With every login-session, a new background image 
-will be shown.
+will be shown. 
 
 ![](https://github.com/DN-debug/peux-os-sddm/blob/master/sddm-peux.png)
 ## Features
