@@ -44,7 +44,7 @@ To run this, you must have the below QT5 dependencies:
 `qt5-quickcontrols`
 `qt5-quickcontrols2`
 
-## Installation
+## Procedure to Test
 
 Follow the below steps to test it:
 
