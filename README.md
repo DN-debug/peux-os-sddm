@@ -36,6 +36,14 @@ XML data from Bing/Yahoo/Flicker and many other sites in your implementation. <b
 
 If you would like to contribute to this repo please do so by creating a PR. I am open to suggestions.
 
+## Dependencies
+
+To run this, you must have the below QT5 dependencies:
+
+`qt5-graphicaleffects`
+`qt5-quickcontrols`
+`qt5-quickcontrols2`
+
 ## Installation
 
 Follow the below steps to test it:
