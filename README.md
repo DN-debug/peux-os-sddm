@@ -51,8 +51,8 @@ Follow the below steps to test it:
     1. You'd require to have "login" backgrounds directory
        inside of your '/usr/share/backgrounds/' directory. The pictures should follow
        numbering, for eg., 1.jpg, 2.jpg .. so on and so forth till 7.jpg. So if you are replacing the existing 
-       images, you'd require to follow the same naming convention and it can only be upto 7 images. [as mentioned in the #Issues and Contribution
-       section as part of the limitation]
+       images, you'd require to follow the same naming convention and it can only be upto 7 images. 
+       [This is mentioned in the #Issues and Contribution section as part of the limitation]
 
        You may use the one that is already included in this repo:
 
