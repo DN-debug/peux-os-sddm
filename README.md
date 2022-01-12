@@ -48,13 +48,13 @@ To run this, you must have the below QT5 dependencies:
 
 Follow the below steps to test it:
 
-    1. You'd require to have "login" backgrounds directory inside of your '/usr/share/backgrounds/' directory. 
-       The pictures should follow numbering, for eg., 1.jpg, 2.jpg .. so on and so forth till 7.jpg. 
-       So if you are replacing the existing images, you'd require to follow the same naming convention and it can 
-       only be upto 7 images. 
-       [This is mentioned in the #Issues and Contribution section as part of the limitation]
+You'd require to have "login" backgrounds directory inside of your '/usr/share/backgrounds/' directory. 
+The pictures should follow numbering, for eg., 1.jpg, 2.jpg .. so on and so forth till 7.jpg. 
+So if you are replacing the existing images, you'd require to follow the same naming convention and it can 
+only be upto 7 images. 
+[This is mentioned in the #Issues and Contribution section as part of the limitation]
 
-       You may use the one that is already included in this repo:
+You may use the one that is already included in this repo:
 
 ```bash
         git clone https://github.com/DN-debug/peux-os-sddm.git
@@ -62,8 +62,8 @@ Follow the below steps to test it:
         sudo cp -r login/ /usr/share/backgrounds/
 ```
 
-    2. Now, assuming that you are inside of the parent directory of the repo,
-       that is 'peux-os-sddm/', you may test it from here using the below command:
+Now, assuming that you are inside of the parent directory of the repo,
+that is 'peux-os-sddm/', you may test it from here using the below command:
 
 ```bash
         sddm-greeter --test-mode --theme sddm-peux-os-clairvoyance/
